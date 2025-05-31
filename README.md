@@ -60,8 +60,5 @@ python yt_batch_downloader.py
 - Build standalone executables with PyInstaller.  
 - Add unit tests for download/trim logic.
 
-## License
-Choose an open‐source license (e.g., MIT, Apache 2.0) by adding a `LICENSE` file.
-
 ## Contributing
 Issues and pull requests are welcome.
